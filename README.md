@@ -35,7 +35,7 @@ Aguarde o projeto iniciar e acesse a url **http://localhost:3000** para ver o pr
 - [Nuxt](https://nuxt.com/) - Frontend
 - [NodeJs](https://nodejs.org/) - Backend
 - [Npm](https://www.npmjs.com/) - Gerenciador de pacotes
-- [TypeScript](https://www.typescriptlang.org/)
+- [TypeScript](https://www.typescriptlang.org/) - Linguagem de programação
 - [Docker](https://www.docker.com/) - Ambiente
 
 ## ✒️ Autores
